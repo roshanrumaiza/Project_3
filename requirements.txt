@@ -1,0 +1,4 @@
+robotframework~=7.5
+robotframework-seleniumlibrary
+selenium
+Python~=3.13.3
